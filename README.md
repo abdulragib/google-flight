@@ -58,6 +58,7 @@ npm run preview
 ## Components
 - `SearchForm.tsx`: Handles flight search input fields.
 - `AirportSearch.tsx`: Autocomplete airport search component.
+- `FlightResults.tsx`: Showing Available Flights
 
 
 
